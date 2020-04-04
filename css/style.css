@@ -1,0 +1,43 @@
+body {
+  background-color: #d4ebd0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+td{
+  cellspacing: 10px;
+}
+
+img {
+  height: 150px;
+}
+
+h3{
+  font-style: normal;
+  color: #75b79e;
+}
+
+h2{
+  font-style: normal;
+  color: #75b79e;
+}
+
+a{
+ font-size: 17px;
+ color:  #75b79e;
+}
+
+p{
+  font-family: monospace;
+  font-size: 16px;
+
+}
+td {
+  font-family: cursive;
+  font-size: 16px;
+}
